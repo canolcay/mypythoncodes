@@ -180,3 +180,4 @@ new_total(15,"80") # hata verecek çünkü 1 değer string
 #okul ortalaması hesaplayan program
 #anaktar kelimeye göre personel bilgisi getiren ve bunları txt ye kaydeden basit otomat
 #Basit alarm,saat
+#Herkese iyi çalışmalar
